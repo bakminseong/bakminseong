@@ -1,6 +1,5 @@
-<h1 align="left">Hi 👋, I'm park min seong</h1>
+<h1 align="left">Hi 👋</h1>
 <h3 align="left">"Dream without fear, love without limits."</h3>
-<h3 aligh="left">인생은 짧다고 합니다. 꿈을 두려움 없이 펼치고 좋아하는 것을 해보고자 합니다.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakminseong&label=Profile%20views&color=0e75b6&style=flat" alt="bakminseong" /> </p>
 
